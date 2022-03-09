@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.99914720000004, -3.3200222219999773]
+        },
+        "properties": {
+            "OBJECTID": 1,
+            "No": 16,
+            "Provinsi": "Kalimantan Selatan",
+            "Nama_Kota_Kabupaten": "Banjar",
+            "Waduk__kg_": 1877.3,
+            "Sungai__kg_": 1585,
+            "Danau__kg_": 0,
+            "Laut__Ton_": 1.98,
+            "Laut__Kg_": 1980,
+            "Rawa__kg_": 993,
+            "X": 114.9991472,
+            "Y": -3.320022222,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1Nw0UQy2RPn235vCttVwLiXZLDcQiGg58",
+            "F13": null
+        }
+    }]
+}

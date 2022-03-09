@@ -1,0 +1,355 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "id": 0,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [113.00120000000004, 0.8336694440000656]
+        },
+        "properties": {
+            "FID": 0,
+            "No": 2,
+            "Provinsi": "Kalimantan Barat",
+            "Nama_Kota_": "Kapuas Hulu",
+            "Waduk__kg_": 0,
+            "Sungai__kg": 13331033,
+            "Danau__kg_": 16127333,
+            "Laut__Ton_": 0,
+            "Laut__Kg_": 0,
+            "Rawa__kg_": 0,
+            "X": 113.0012,
+            "Y": 0.83366944399999998,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1NQN988dne9o358nZcdmLuYQkppvBos84",
+            "F13": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [115.01472220000005, -1.9638888889999748]
+        },
+        "properties": {
+            "FID": 1,
+            "No": 28,
+            "Provinsi": "Kalimantan Tengah",
+            "Nama_Kota_": "Barito Selatan",
+            "Waduk__kg_": 0,
+            "Sungai__kg": 5279299,
+            "Danau__kg_": 3496100,
+            "Laut__Ton_": 0,
+            "Laut__Kg_": 0,
+            "Rawa__kg_": 460.80000000000001,
+            "X": 115.01472219999999,
+            "Y": -1.9638888889999999,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1MoUyKnkVRUN1xvWYr5hS2z2pz5bcgw5P",
+            "F13": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [115.18027780000011, -2.0147222219999321]
+        },
+        "properties": {
+            "FID": 2,
+            "No": 29,
+            "Provinsi": "Kalimantan Tengah",
+            "Nama_Kota_": "Barito Timur",
+            "Waduk__kg_": 0,
+            "Sungai__kg": 479556,
+            "Danau__kg_": 113.68000000000001,
+            "Laut__Ton_": 0,
+            "Laut__Kg_": 0,
+            "Rawa__kg_": 257038,
+            "X": 115.1802778,
+            "Y": -2.0147222220000001,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1g_7OYi9J3VS0VctXD5JdXLxbkMm2IwbE",
+            "F13": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [115.15194440000005, -0.7244444439999711]
+        },
+        "properties": {
+            "FID": 3,
+            "No": 30,
+            "Provinsi": "Kalimantan Tengah",
+            "Nama_Kota_": "Barito Utara",
+            "Waduk__kg_": 0,
+            "Sungai__kg": 853801,
+            "Danau__kg_": 122.7,
+            "Laut__Ton_": 0,
+            "Laut__Kg_": 0,
+            "Rawa__kg_": 50.299999999999997,
+            "X": 115.1519444,
+            "Y": -0.72444444399999997,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1UM_ovpHDCFAUDB_lO-FfQc3VUQKiiiXc",
+            "F13": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [113.51305560000003, -0.98666666699995176]
+        },
+        "properties": {
+            "FID": 4,
+            "No": 31,
+            "Provinsi": "Kalimantan Tengah",
+            "Nama_Kota_": "Gunung Mas",
+            "Waduk__kg_": 0,
+            "Sungai__kg": 218.19999999999999,
+            "Danau__kg_": 316.89999999999998,
+            "Laut__Ton_": 0,
+            "Laut__Kg_": 0,
+            "Rawa__kg_": 0,
+            "X": 113.5130556,
+            "Y": -0.98666666700000005,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1KmbvZ8SoepxqiLmm-YmmACOeF--WXuSB",
+            "F13": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.22166670000001, -1.9163888889999612]
+        },
+        "properties": {
+            "FID": 5,
+            "No": 32,
+            "Provinsi": "Kalimantan Tengah",
+            "Nama_Kota_": "Kapuas",
+            "Waduk__kg_": 0,
+            "Sungai__kg": 5430442,
+            "Danau__kg_": 321.10000000000002,
+            "Laut__Ton_": 10607,
+            "Laut__Kg_": 10607,
+            "Rawa__kg_": 907.10000000000002,
+            "X": 114.2216667,
+            "Y": -1.916388889,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1QtWxJlkzJLIwKaqjgU674fKzPlBJPBWz",
+            "F13": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [112.9330556000001, -1.9547222219999298]
+        },
+        "properties": {
+            "FID": 6,
+            "No": 33,
+            "Provinsi": "Kalimantan Tengah",
+            "Nama_Kota_": "Katingan",
+            "Waduk__kg_": 0,
+            "Sungai__kg": 2924900,
+            "Danau__kg_": 494,
+            "Laut__Ton_": 1584,
+            "Laut__Kg_": 1584,
+            "Rawa__kg_": 279.89999999999998,
+            "X": 112.9330556,
+            "Y": -1.954722222,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1aJvjmy8d0pAtd_bAimiApQgZf1r0x0A1",
+            "F13": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [111.76138890000004, -2.5061111109999388]
+        },
+        "properties": {
+            "FID": 7,
+            "No": 34,
+            "Provinsi": "Kalimantan Tengah",
+            "Nama_Kota_": "Kotawaringin Barat",
+            "Waduk__kg_": 0,
+            "Sungai__kg": 3143225,
+            "Danau__kg_": 182.19999999999999,
+            "Laut__Ton_": 17938,
+            "Laut__Kg_": 17938,
+            "Rawa__kg_": 204586,
+            "X": 111.7613889,
+            "Y": -2.5061111110000001,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1k8LPPWDEAHmS45qFVeNyy2UERd8d0oCr",
+            "F13": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 8,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [112.81027780000011, -2.1224999999999454]
+        },
+        "properties": {
+            "FID": 8,
+            "No": 35,
+            "Provinsi": "Kalimantan Tengah",
+            "Nama_Kota_": "Kotawaringin Timur",
+            "Waduk__kg_": 0,
+            "Sungai__kg": 4324179,
+            "Danau__kg_": 2970340,
+            "Laut__Ton_": 18,
+            "Laut__Kg_": 18000,
+            "Rawa__kg_": 1463869,
+            "X": 112.81027779999999,
+            "Y": -2.1225000000000001,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1javi_62CStzHGagFBDz8hz9PUnEas2kD",
+            "F13": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 9,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [111.28444440000004, -1.8524999999999636]
+        },
+        "properties": {
+            "FID": 9,
+            "No": 36,
+            "Provinsi": "Kalimantan Tengah",
+            "Nama_Kota_": "Lamandau",
+            "Waduk__kg_": 0,
+            "Sungai__kg": 211,
+            "Danau__kg_": 638.29999999999995,
+            "Laut__Ton_": 0,
+            "Laut__Kg_": 0,
+            "Rawa__kg_": 176.30000000000001,
+            "X": 111.2844444,
+            "Y": -1.8525,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1hYpa5ueATpOVI7V1_o9oa0MHoV9uD1Xt",
+            "F13": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 10,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.33388890000003, -0.13611111099993423]
+        },
+        "properties": {
+            "FID": 10,
+            "No": 37,
+            "Provinsi": "Kalimantan Tengah",
+            "Nama_Kota_": "Murung Raya",
+            "Waduk__kg_": 0,
+            "Sungai__kg": 159305,
+            "Danau__kg_": 51359,
+            "Laut__Ton_": 0,
+            "Laut__Kg_": 0,
+            "Rawa__kg_": 0,
+            "X": 114.33388890000001,
+            "Y": -0.13611111100000001,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1qYp4n1dwX6o_YjgNLq9RzraQ0ALzpjQ_",
+            "F13": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 11,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [113.91388890000007, -2.2158333329999778]
+        },
+        "properties": {
+            "FID": 11,
+            "No": 38,
+            "Provinsi": "Kalimantan Tengah",
+            "Nama_Kota_": "Palangka Raya",
+            "Waduk__kg_": 0,
+            "Sungai__kg": 917016,
+            "Danau__kg_": 762.5,
+            "Laut__Ton_": 0,
+            "Laut__Kg_": 0,
+            "Rawa__kg_": 959102,
+            "X": 113.9138889,
+            "Y": -2.215833333,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1d3UXQFvP7bNjUgWwpHn0DvatrgHK4-FP",
+            "F13": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 12,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [113.9536111000001, -2.6849999999999454]
+        },
+        "properties": {
+            "FID": 12,
+            "No": 39,
+            "Provinsi": "Kalimantan Tengah",
+            "Nama_Kota_": "Pulang Pisau",
+            "Waduk__kg_": 0,
+            "Sungai__kg": 1373906,
+            "Danau__kg_": 987,
+            "Laut__Ton_": 19102,
+            "Laut__Kg_": 19102,
+            "Rawa__kg_": 777.03999999999996,
+            "X": 113.9536111,
+            "Y": -2.6850000000000001,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1Nrr3WXs_E0yP3C6BI3ISum1-kTbXiw6m",
+            "F13": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 13,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [112.42888890000006, -3.0122222219999344]
+        },
+        "properties": {
+            "FID": 13,
+            "No": 40,
+            "Provinsi": "Kalimantan Tengah",
+            "Nama_Kota_": "Seruyan",
+            "Waduk__kg_": 0,
+            "Sungai__kg": 2258023,
+            "Danau__kg_": 1218684,
+            "Laut__Ton_": 10698,
+            "Laut__Kg_": 10698,
+            "Rawa__kg_": 583312,
+            "X": 112.4288889,
+            "Y": -3.0122222220000001,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1sarEXJUmdPZ3bdByCFMo9cI9zfQXIqhS",
+            "F13": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 14,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [111.23666670000006, -2.6266666669999381]
+        },
+        "properties": {
+            "FID": 14,
+            "No": 41,
+            "Provinsi": "Kalimantan Tengah",
+            "Nama_Kota_": "Sukamara",
+            "Waduk__kg_": 0,
+            "Sungai__kg": 626.20000000000005,
+            "Danau__kg_": 413,
+            "Laut__Ton_": 7436,
+            "Laut__Kg_": 7436,
+            "Rawa__kg_": 32.5,
+            "X": 111.2366667,
+            "Y": -2.6266666669999998,
+            "Link_Foto": "https://drive.google.com/uc?export=view&id=1CK6wZwu3y1ZYnPhGnMlUvsky5qN3zwrR",
+            "F13": " "
+        }
+    }]
+}
